@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+
+}
+.logo{
+    width: 130px;
+    height: left;
+    padding-left: 0px;
+    padding-right: 0px;
+ 
+   
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+}
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+
+    max-width: 200px;
+    margin: 20px auto 1 auto;
+    padding: 20px;
+    
+
+    
+   
+}
+a{
+    color: rgb(255, 0, 195);
+    text-decoration: none;
+    font-size: 20px;
+   
+   
+}
+a:hover{
+    color: aqua;
+    border-top:  1px solid violet;
+    max-width: 200px;
+    margin: 20px auto 0 auto;
+    padding: 0px;
+}
+.nom{
+    color: white;
+    text-decoration: white;
+    display: flex;
+    text-align: center;
+    
+    
+}
